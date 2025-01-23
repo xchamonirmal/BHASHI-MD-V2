@@ -9,7 +9,7 @@ module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
   SESSION_ID: process.env.SESSION_ID || "BHASHI-MD~mmQmnbZb#_RJqV3WvHDl6GrFXVVvYvpjsfEEeTWcYeusP2o6m4yc",
 // For extra thing : BHASHI-MD~(megafileid)
-  MONGODB: process.env.MONGODB || "mongodb+srv://herokubot458:<QAT5sKzU9JnlXJAS>@cluster0.u0w6u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  MONGODB: process.env.MONGODB || "mongodb+srv://herokubot458:<QAT5sKzU9JnlXJAS>@cluster0.vdcmi.mongodb.net/",
 
     
  
